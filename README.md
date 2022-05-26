@@ -161,3 +161,8 @@
 -  - ![alt text](https://github.com/Ellawangari/DevOps-project15/blob/main/imgs/tgroup2.PNG)
 -  - ![alt text](https://github.com/Ellawangari/DevOps-project15/blob/main/imgs/tgroup3.PNG)
 
+   # Also when  i run `curl -L localhost` on the tooling and wordpress server i can see the login page for php and wordpress select language
+   - Tooling
+   - ![alt text](https://github.com/Ellawangari/DevOps-project15/blob/main/imgs/tooling.PNG)
+    -Wordpress
+    - ![alt text](https://github.com/Ellawangari/DevOps-project15/blob/main/imgs/wordpress.PNG)
