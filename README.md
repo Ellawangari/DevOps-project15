@@ -1,4 +1,4 @@
-# Starting Off Your AWS Cloud Project
+# Starting Off  AWS Cloud Project
 
 
 ## Pretasks:
