@@ -166,3 +166,13 @@
    - ![alt text](https://github.com/Ellawangari/DevOps-project15/blob/main/imgs/tooling.PNG)
     -Wordpress
     - ![alt text](https://github.com/Ellawangari/DevOps-project15/blob/main/imgs/wordpress.PNG)
+
+
+# Solved Blockers
+- Opened port 443 and 80 for the webserver security groups for which the tooling and the wordpress servers were using and also tooling domain record was pointing to a wrong external load balancer.
+
+  - Tooling
+   - ![alt text](https://github.com/Ellawangari/DevOps-project15/blob/main/imgs/tooling1.PNG)
+   
+    -Wordpress
+    - ![alt text](https://github.com/Ellawangari/DevOps-project15/blob/main/imgs/wordpress1.PNG)
