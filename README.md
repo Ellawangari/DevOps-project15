@@ -10,7 +10,7 @@
    ![alt text](https://github.com/Ellawangari/DevOps-project15/blob/main/imgs/1_LI%20(2).jpg)
   - Login to the newly created account 
 - Create a free domain name from http://www.freenom.com
-![alt text](https://github.com/Ellawangari/DevOps-project15/blob/main/imgs/3.PNG)
+
 
 - Create a hosted zone in AWS Route 53
   - Go to the Route 53 Console
